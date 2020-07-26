@@ -1,7 +1,7 @@
 /**
- * @param {number} n
+ * @param {number} n 
  * @param {number} k
- * @return {number[][]}
+ * @return {number[][]} 
  */
 
 
